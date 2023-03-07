@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Demo</title>
+    <url>/2023/03/03/My-New-Post/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
     <title>Phoenix安装</title>
     <url>/2023/03/07/Phoenix%E5%AE%89%E8%A3%85/</url>
     <content><![CDATA[<h1 id="安装Phoenix"><a href="#安装Phoenix" class="headerlink" title="安装Phoenix"></a>安装Phoenix</h1><p>1.官网  选择自己的版本</p>
@@ -39,11 +44,6 @@
       <tags>
         <tag>安装文档</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>Demo</title>
-    <url>/2023/03/03/My-New-Post/</url>
-    <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title>测试</title>
